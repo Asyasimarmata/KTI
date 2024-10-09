@@ -2623,11 +2623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KTI\\SampleSecuredWeb\\SampleSecuredWeb.csproj",
+      "projectUniqueName": "D:\\KTI2\\SampleSecuredWeb\\SampleSecuredWeb.csproj",
       "projectName": "SampleSecuredWeb",
-      "projectPath": "D:\\KTI\\SampleSecuredWeb\\SampleSecuredWeb.csproj",
+      "projectPath": "D:\\KTI2\\SampleSecuredWeb\\SampleSecuredWeb.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\KTI\\SampleSecuredWeb\\obj\\",
+      "outputPath": "D:\\KTI2\\SampleSecuredWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
